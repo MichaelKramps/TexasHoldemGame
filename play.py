@@ -4,7 +4,7 @@ import player
 import random
 import table
 
-##This texasHoldem class was just thrown together. It doesn't handle errors and it is sloppy. I will be overhauled soon.
+##This texasHoldem class is unfinished. It needs to be revised for error handling and readability.
 class texasHoldem:
     def __init__(self):
         self.table = table.table()
